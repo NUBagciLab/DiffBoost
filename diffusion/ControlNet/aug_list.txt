@@ -1,0 +1,50 @@
+Enhance contrast
+High resolution
+Low resolution
+Clear edges
+Blurred edges
+Noise reduction
+Sharpened details
+Smoothed texture
+Brightened image
+Darkened image
+High dynamic range
+Low dynamic range
+Balanced lighting
+Uniform background
+Grayscale colormap
+Pseudo-coloring
+Cropped view
+Zoomed-in detail
+Panoramic view
+Artifact removal
+Image subtraction
+Adaptive histogram equalization
+Contrast stretching
+Gamma correction
+Image normalization
+Intensity mapping
+Image thresholding
+Edge detection
+Contour extraction
+Morphological operations
+Image filtering
+Gaussian blur
+Median filter
+Bilateral filter
+Anisotropic diffusion
+Image enhancement
+Inverse transformation
+Image deconvolution
+Motion compensation
+Image compression
+Image denoising
+Speckle reduction
+Image inpainting
+Clustering techniques
+Vignetting correction
+Lens distortion correction
+Perspective correction
+Reflection removal
+Shadow removal
+Image blending
