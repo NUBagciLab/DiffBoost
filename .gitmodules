@@ -1,0 +1,3 @@
+[submodule "diffusion/ControlNet"]
+	path = diffusion/ControlNet
+	url = ./diffusion/ControlNet
