@@ -1,0 +1,27 @@
+network_structure:
+  model_name: '2DAttentionUnet'
+  model_config:
+    loss: 'DiceCELoss'
+    in_channels: 1
+    out_channels: 3
+
+dataset:
+  path_dir: '/data/datasets/DiffusionMedAug/lung/processed/2DSliceEdge'
+  fold: 1
+  transform: null
+  batch_size: 8
+  patch_size: [384, 384]
+  data_type: '2D'
+  augment_ratio: 50
+
+evaluation:
+  _lab2cname:
+    0: 'background'
+    1: 'left lung'
+    2: 'right lung'
+  extra_name: ''
+
+training_setting:
+  epoch: 100
+  model_dir: './models/lung.ckpt'
+  result_dir: './results/lung'

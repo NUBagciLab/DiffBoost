@@ -1,0 +1,6 @@
+data_dir: "/data/datasets/DiffusionMedAug/spleen"
+out_tag: "2DSliceEdge"
+file_type: "nii.gz"
+target_size: [384, 384]
+num_slice: 1
+prompt: "Spleen, CT"

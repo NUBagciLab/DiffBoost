@@ -1,0 +1,5 @@
+data_dir: "/data/datasets/DiffusionMedAug/liver"
+out_tag: "2DSlice"
+file_type: "nii.gz"
+target_size: [384, 384]
+num_slice: 1
