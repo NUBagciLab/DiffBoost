@@ -34,11 +34,12 @@ The pretrained weight <del> is available at [here]() </del> due to the data requ
 
 please consider cite our work if you find it is helpful
 ```
-@article{zhang2023emit,
-  title={Emit-diff: Enhancing medical image segmentation via text-guided diffusion model},
-  author={Zhang, Zheyuan and Yao, Lanhong and Wang, Bin and Jha, Debesh and Keles, Elif and Medetalibeyoglu, Alpay and Bagci, Ulas},
-  journal={arXiv preprint arXiv:2310.12868},
-  year={2023}
+@article{zhang2024diffboost,
+  title={DiffBoost: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model},
+  author={Zhang, Zheyuan and Yao, Lanhong and Wang, Bin and Jha, Debesh and Durak, Gorkem and Keles, Elif and Medetalibeyoglu, Alpay and Bagci, Ulas},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2024},
+  publisher={IEEE}
 }
 
 ```
