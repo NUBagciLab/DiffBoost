@@ -15,7 +15,7 @@ conda activate medgconrtol
 Datasets can be download from the original data source according to the license. All preprocess file can be found under [preprocess](./segmentation/preprocess/preprocessor.py). 
 
 ### Step 1: Train text-diffusion model for medical image
-We release our RadImageNet pretrain weights [here](https://drive.google.com/drive/folders/1dFitnVITUlDovC8XgLl1h12xGk13T3i8?usp=sharing).
+We release our RadImageNet pretrain weights <del> [here](https://drive.google.com/drive/folders/1dFitnVITUlDovC8XgLl1h12xGk13T3i8?usp=sharing).</del>
 
 As shown in the paper, we need to finetune the model on downstream tasks. Take prostate dataset as example
 ```
