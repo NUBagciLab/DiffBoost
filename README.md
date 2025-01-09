@@ -29,7 +29,7 @@ cd ./segmentation
 bash ./compare_single_prostate.sh
 ```
 ### Pretrained Weights
-The pretrained weight <del> is available at [here]()<del> due to the data requirements of the RadImageNet team.
+The pretrained weight <del> is available at [here]() </del> due to the data requirements of the RadImageNet team.
 ### citation
 
 please consider cite our work if you find it is helpful
